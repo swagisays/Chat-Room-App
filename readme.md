@@ -9,3 +9,5 @@ features =>
 badwords detaction
 location sharing
 notify when a user join/left
+
+App Link => https://chatlyroom.herokuapp.com/
